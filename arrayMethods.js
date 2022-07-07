@@ -1,3 +1,4 @@
+// Huiswerk Koos Dorssers
 // Gebruik array methoden voor alle onderstaande opdrachten
 
 const inventors = [
