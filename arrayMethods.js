@@ -1,4 +1,4 @@
-// Huiswerk Koos Dorssers
+// Huiswerk Koos Dorssers juli 2022
 // Gebruik array methoden voor alle onderstaande opdrachten
 
 const inventors = [
